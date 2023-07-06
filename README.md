@@ -9,7 +9,7 @@ It contains two CSV files:
 ## Time series data
 The time series data is present in the ```Time Series``` folder.
 
-This folder contains three subfolders, representing 
+This folder contains three subfolders, representing: 
 - the original data
 - the data with ground truth relations
 - the data with pruned relations where the pruning is done using the PC-stable algorithm available [here](https://github.com/jakobrunge/tigramite).
