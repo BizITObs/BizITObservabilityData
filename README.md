@@ -23,7 +23,7 @@ In addition, the `Original` folder contains the following files:
 - ```service_df.csv``` representing the service-level data (in CSV format) for the Instana Robot Shop application
 - ```application_df.csv``` representing the application-level data (in CSV format)for the Instana Robot Shop application
 
-These datasets consist of IT alerts encoded as binary signals and time-varying KPI values. Any .h5 file can be loaded as a pandas dataframe using the following code:
+These datasets consist of IT alerts encoded as discrete events and time-varying KPI values. Any .h5 file can be loaded as a pandas dataframe using the following code:
 ```
 import pandas as pd
 data = pd.read_hdf("<path_to_data_file>")
