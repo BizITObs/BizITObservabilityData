@@ -21,7 +21,7 @@ Each folder contains at least the following two .h5 (HDF formatted) files:
 In addition, the `Original` folder contains the following files:
 - ```L2C_data.h5``` representing the data (in HDF format) for an Order Approval process
 - ```service_df.csv``` representing the service-level data (in CSV format) for the Instana Robot Shop application
-- ```application_df.csv``` representing the application-level data (in CSV format)for the Instana Robot Shop application
+- ```application_df.csv``` representing the application-level data (in CSV format) for the Instana Robot Shop application
 
 These datasets consist of IT alerts encoded as discrete events and time-varying KPI values. Any .h5 file can be loaded as a pandas dataframe using the following code:
 ```
