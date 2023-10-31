@@ -1,5 +1,7 @@
 # BizITProcessPredictionData
 
+This data contains event logs and time series data for BizITOps. Event log data contains business and IT events. Time Series data contains business (and possibly IT) KPIs and IT events.
+
 ## Event logs
 The event log data is present in the ```Event Logs``` folder. 
 It contains two CSV files:
