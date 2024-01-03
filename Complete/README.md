@@ -13,7 +13,7 @@ The time series data is present in the ```Time Series``` folder.
 
 This folder contains three subfolders:
 - **SO**: consists of a small `Original` dataset representing the data for a real-world Sales Order process and a larger `Simulated` dataset for a simulated process based on this Sales Order process.
-- **Instana**: contains the service-level and application-level data for the Instana Robot Shop application
+- **RobotShop**: contains the service-level and application-level data for the Robot Shop application monitored by Instana.
 - **L2C**: contains the data for an Order Approval process based on a real-world Lead-to-Cash process.
 
 These datasets consist of IT alerts encoded as discrete events and time-varying KPI values. Data is available in two formats: `.csv` and `.h5`.
