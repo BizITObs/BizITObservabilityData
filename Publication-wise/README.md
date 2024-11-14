@@ -2,7 +2,7 @@
 
 This data contains event logs and time series data for Business and IT Observability. Event log data contains business and IT events. Time Series data contains business (and possibly IT) KPIs and IT events. 
 
-There are currently 4 publications using this data:
+There are currently 4 publications using this data (see the README file in the corresponding folder for citation details):
 
 - AutoMixer for Improved Multivariate Time-Series Forecasting on Business and IT Observability Data (IAAI 2024)
 - Forecasting the Impact of Anomalous Events on Business Process Performance (CODS-COMAD 2024)
