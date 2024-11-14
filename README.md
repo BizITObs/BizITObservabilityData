@@ -20,3 +20,15 @@ Any `.h5` file can be loaded as a pandas dataframe using the following code:
 import pandas as pd
 data = pd.read_hdf("<path_to_data_file>")
 ```
+
+## Citation
+If you wish to cite any particular methodology along with the data, or any part of the data used in the context of a particular publication, please cite the corresponding paper. See the **Publication-wise** folder for details. If you simply wish to cite this dataset as a whole, please cite this paper:
+```
+@inproceedings{saha2024towards,
+  title={Towards Business Process Observability},
+  author={Saha, Avirup and Agarwal, Prerna and Ghosh, Sambit and Gantayat, Neelamadhav and Sindhgatta, Renuka},
+  booktitle={Proceedings of the 7th Joint International Conference on Data Science \& Management of Data (11th ACM IKDD CODS and 29th COMAD)},
+  pages={257--265},
+  year={2024}
+}
+```
